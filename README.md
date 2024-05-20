@@ -8,7 +8,7 @@ This project outputs [knitout](https://textiles-lab.github.io/knitout/knitout.ht
 
 ## How to use
 
-The [sweater-website.html](https://github.com/textiles-lab/parametric-sweater/blob/main/frontend/sweater-website.html) file can be used to generate a json file that can be passed into [sweater_pattern.mjs](https://github.com/textiles-lab/parametric-sweater/blob/main/backend/sweater_pattern.mjs). This can then be run to generate a knitout file. 
+The [sweater-website.html](https://github.com/textiles-lab/parametric-sweater/blob/main/frontend/sweater-website.html) file can be used to generate a json file that can be passed into [sweater_pattern.mjs](https://github.com/textiles-lab/parametric-sweater/blob/main/backend/sweater_pattern.mjs). This can then be run to generate a knitout file. Your measurements should be in centimeters. 
 
 If you have wish to run the file on a Shima Seiki knitting machine, please contact jmccann@cs.cmu.edu for a knitout-to-dat converter. If you have a Kniterate, please use the public [knitout to k-code converter](https://github.com/textiles-lab/knitout-backend-kniterate). If you have a STOLL knitting machine, some backends are currently in development. Please note that this pattern was developed for and tested on a Shima Seiki machine.
 
